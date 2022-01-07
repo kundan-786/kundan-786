@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Kundan Kumar Giri</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Android App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter **
 
 - 👯 I’m looking to collaborate on **Android and Web Dev Projects**
 
