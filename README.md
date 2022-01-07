@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kundan41117818" target="blank"><img src="https://img.shields.io/twitter/follow/kundan41117818?logo=twitter&style=for-the-badge" alt="kundan41117818" /></a> </p>
 
-- 🔭 I’m currently working on **Android App**
+- 🔭 I’m currently working on ** Android App Development **
 
-- 🌱 I’m currently learning **Flutter **
+- 🌱 I’m currently learning ** Flutter **
 
 - 👯 I’m looking to collaborate on **Android and Web Dev Projects**
 
